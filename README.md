@@ -1,2 +1,5 @@
 # SE-Project
 It is a project to create a Data Visualization Software using Python
+
+
+dfhsdfjhskdfjkshfjsfhasjkdfjskfkjshfkjsdhfkjsdhfkjsdfsdffsfsdfhsxjfhsxkjb sdjfkgysdufgsiudf sdbfhjcashnx gwerncwx wiergnxwgrxwexrgnweigriweuruiwexiuzx
